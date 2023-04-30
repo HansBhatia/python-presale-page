@@ -1,4 +1,4 @@
-name: snowpark
+name: enforcer
 channels:
   - defaults
 dependencies:
