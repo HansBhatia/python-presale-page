@@ -3,10 +3,10 @@ channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - defaults
 dependencies:
-  - pip=23.0.1=py38hecd8cb5_0
-  - python=3.8.16=h218abb5_3
-  - snowflake-connector-python=2.7.12=py38hae1ba45_0
-  - snowflake-snowpark-python=1.4.0=py38hecd8cb5_0
+  - pip=23.0.1
+  - python=3.8.16
+  - snowflake-connector-python=2.7.12
+  - snowflake-snowpark-python=1.4.0
   - pip:
       - altair==4.2.2
       - attrs==23.1.0
